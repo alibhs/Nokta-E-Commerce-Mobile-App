@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "443957974622",
+    "project_id": "e-ticaret-644ac",
+    "storage_bucket": "e-ticaret-644ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443957974622:android:3aec1eb946e4ff6c5c06cf",
+        "android_client_info": {
+          "package_name": "com.example.e_ticaret.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443957974622-53v62rhv1k50577gli17gfsbj0c3k59b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKE38DaltX4eSSxMGHj-1uQONmDt72-QU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443957974622-53v62rhv1k50577gli17gfsbj0c3k59b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
